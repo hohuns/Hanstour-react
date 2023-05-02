@@ -1,0 +1,43 @@
+/* Basic Reset  */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+/* Root font size,  10 / 16(default font size) = 6.25 */
+html {
+  font-size: 62.5%;
+
+  @include respond(tab-land) {
+    //width < 900 ?
+    font-size: 56.25%; // 1rem = 9 px, 9/16= 56.25%
+  }
+
+  @include respond(tab-port) {
+    //width < 900 ?
+    font-size: 50%; // 1rem = 8 px, 8/16= 50%
+  }
+
+  @include respond(big-desktop) {
+    font-size: 75%; // 1rem = 12 px, 12/16= 75%
+  }
+}
+
+/* Applying font with inheritance */
+body {
+  box-sizing: border-box;
+  padding: 3rem;
+
+  @include respond(tab-port) {
+    //width < 900 ?
+    padding: 0;
+  }
+}
+
+::selection {
+  background-color: $color-primary;
+  color: $color-white;
+}
