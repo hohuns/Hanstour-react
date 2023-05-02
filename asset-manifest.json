@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Hanstour-react/static/css/main.196da45a.css",
+    "main.js": "/Hanstour-react/static/js/main.6d09ace0.js",
+    "static/media/video.mp4": "/Hanstour-react/static/media/video.697d9c042a4dec8716f2.mp4",
+    "static/media/video.webm": "/Hanstour-react/static/media/video.defbf1bb518f0f6e94cf.webm",
+    "static/media/nat-6.jpg": "/Hanstour-react/static/media/nat-6.2d00ff9422fb1070945d.jpg",
+    "static/media/nat-5.jpg": "/Hanstour-react/static/media/nat-5.6a01a34858634c5ca25e.jpg",
+    "static/media/hero.jpg": "/Hanstour-react/static/media/hero.15e5f60eb95486007f5a.jpg",
+    "static/media/nat-9.jpg": "/Hanstour-react/static/media/nat-9.b7a3e52c053a5bcace84.jpg",
+    "static/media/nat-7.jpg": "/Hanstour-react/static/media/nat-7.167e44e461bb060f062e.jpg",
+    "static/media/nat-10.jpg": "/Hanstour-react/static/media/nat-10.66b4c17a798f60687f63.jpg",
+    "static/media/nat-4.jpg": "/Hanstour-react/static/media/nat-4.114dc94031b51b2988c7.jpg",
+    "static/media/nat-8.jpg": "/Hanstour-react/static/media/nat-8.106780313042f8b1c0ff.jpg",
+    "static/media/nat-1-large.jpg": "/Hanstour-react/static/media/nat-1-large.a1c1cbdbbfcad1e41a64.jpg",
+    "static/media/hero-small.jpg": "/Hanstour-react/static/media/hero-small.6d6114deeff18ec76471.jpg",
+    "static/media/nat-3-large.jpg": "/Hanstour-react/static/media/nat-3-large.da53b7a00e30c54d543a.jpg",
+    "static/media/nat-2-large.jpg": "/Hanstour-react/static/media/nat-2-large.cbc0cd9f8636cfe88fe7.jpg",
+    "static/media/nat-1.jpg": "/Hanstour-react/static/media/nat-1.0e0a34b98e39ada99a66.jpg",
+    "static/media/nat-3.jpg": "/Hanstour-react/static/media/nat-3.5eff150a33b806a1fb32.jpg",
+    "static/media/nat-2.jpg": "/Hanstour-react/static/media/nat-2.e2a50751c4a3cb86f2e1.jpg",
+    "static/media/logo-white.png": "/Hanstour-react/static/media/logo-white.6c89a3f013a3d7593e24.png",
+    "index.html": "/Hanstour-react/index.html",
+    "main.196da45a.css.map": "/Hanstour-react/static/css/main.196da45a.css.map",
+    "main.6d09ace0.js.map": "/Hanstour-react/static/js/main.6d09ace0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.196da45a.css",
+    "static/js/main.6d09ace0.js"
+  ]
+}
