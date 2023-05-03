@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Hanstour-react/static/css/main.196da45a.css",
+    "main.css": "/Hanstour-react/static/css/main.6b82e82d.css",
     "main.js": "/Hanstour-react/static/js/main.6d09ace0.js",
     "static/media/video.mp4": "/Hanstour-react/static/media/video.697d9c042a4dec8716f2.mp4",
     "static/media/video.webm": "/Hanstour-react/static/media/video.defbf1bb518f0f6e94cf.webm",
@@ -21,11 +21,11 @@
     "static/media/nat-2.jpg": "/Hanstour-react/static/media/nat-2.e2a50751c4a3cb86f2e1.jpg",
     "static/media/logo-white.png": "/Hanstour-react/static/media/logo-white.6c89a3f013a3d7593e24.png",
     "index.html": "/Hanstour-react/index.html",
-    "main.196da45a.css.map": "/Hanstour-react/static/css/main.196da45a.css.map",
+    "main.6b82e82d.css.map": "/Hanstour-react/static/css/main.6b82e82d.css.map",
     "main.6d09ace0.js.map": "/Hanstour-react/static/js/main.6d09ace0.js.map"
   },
   "entrypoints": [
-    "static/css/main.196da45a.css",
+    "static/css/main.6b82e82d.css",
     "static/js/main.6d09ace0.js"
   ]
 }
